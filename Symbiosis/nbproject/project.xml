@@ -5,7 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>Symbiosis</name>
             <source-roots>
-                <root id="src.equa.dir" name="Source Packages"/>
+                <root id="src.dir"/>
             </source-roots>
             <test-roots/>
         </data>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import language="java">
+    <Collection>java.util.Collection</Collection>
+    <Map>java.util.Map</Map>
+    <HashMap>java.util.HashMap</HashMap>
+    <Iterator>java.util.Iterator</Iterator>
+    <List>java.util.List</List>
+    <ArrayList>java.util.ArrayList</ArrayList>
+    <Set>java.util.Set</Set>
+    <SortedSet>java.util.TreeSet</SortedSet>
+    <HashSet>java.util.HashSet</HashSet>
+    <ObjectEquals>java.util.Objects</ObjectEquals>
+    <Collections>java.util.Collections</Collections>
+    <Entity>javax.persistence.Entity</Entity>
+</import>

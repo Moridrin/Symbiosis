@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import language="csharp">
+    <Collection>System.Collections.ObjectModel</Collection>
+    <Map>System.Collections</Map>
+    <HashMap>System.Collections</HashMap>
+    <Iterator>System.Collections</Iterator>
+    <List>System.Collections.Generic</List>
+    <ArrayList>System.Collections</ArrayList>
+    <Set>System.Collections.Generic</Set>
+    <SortedSet>System.Collections.Generic</SortedSet>
+    <HashSet>System.Collections.Generic</HashSet>
+    <ObjectEquals>System</ObjectEquals>
+    <Collections>System.Collections.ObjectModel</Collections>
+    <Linq>System.Linq</Linq>
+</import>
