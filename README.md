@@ -1,6 +1,9 @@
 Symbiosis
 =========
-Het EQuA project is een RAAK-PRO project met een looptijd van 4 jaar. Het project is gestart in het najaar van 2010 en loopt dus tot het najaar van 2014. EQuA staat voor Early Quality Assurance in software production. Het project richt zich op het opsporen en verbeteren van fouten in het traject van software productie, in een zo vroeg mogelijk stadium. Of, breder gesteld: het project richt zich op het bereiken van een zo hoog mogelijke kwaliteit in een zo vroeg mogelijk stadium.
-Zowel binnen de wetenschap als binnen het werkveld wordt gewerkt aan dit probleem. Het EQuA project heeft tot doel om de kennis en inzichten van beide partijen bij elkaar te brengen en van daaruit praktische oplossingen te creëren.
-Binnen het EQuA project wordt samengewerkt door acht partners: twee hogescholen, drie wetenschappelijke instellingen en drie bedrijven. Fontys ICT is penvoerder van het project. Zie het tabblad Partners voor een volledig overzicht van de deelnemende partijen.
-Het doel van een RAAK-PRO project is om een verdieping van praktijkgericht onderzoek te bewerkstelligen, in samenwerking met wetenschappelijke instellingen en het werkveld. Deze projecten worden geïnitieerd vanuit de Stichting Kennisontwikkeling HBO (SKO). De uitvoering ligt in handen van de Stichting Innovatie Alliantie (SIA). Het subsidiegeld is afkomstig van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+The EQuA project is a 4 year RAAK-PRO project. The project has started in the fall of 2010, and so will run until the fall of 2014. EQuA is an acronym for Early Quality Assurance in software production. The project aims at the detection and correction of errors in the process of software production, in a stage as early as possible. Or, stated otherwise: the project aims at achieving a quality standard as high as possible in a stage as early as possible.
+
+Both in the scientific world and in the software development community the quality problem is addressed. The goal of the EQuA project is to bring togheter knowledge and insights from both sides, and from there to create practical solutions.
+
+The EQuA project is a collaboration of eight partners: two universities of applied science, three scientific institutions and three IT companies. Fontys ICT manages the project. See the tab Partners for a complete overview of the participants. 
+
+The goal of a RAAK-PRO project is to stimulate applied research, in co-operation with scientific institutions and IT-companies. These projects are initiated from the Stichting Kennisontwikkeling HBO (SKO). The implementation is in the hands of the Stichting Innovatie Alliantie (SIA). The funding comes from the Ministry of Eduaction, Culture and Science.
